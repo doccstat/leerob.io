@@ -25,15 +25,15 @@ const graphik = localFont({
 export const metadata: Metadata = {
   metadataBase: new URL('https://leerob.io'),
   title: {
-    default: 'Lee Robinson',
-    template: '%s | Lee Robinson',
+    default: 'Xingchi Li',
+    template: '%s | Xingchi Li',
   },
-  description: 'Developer, writer, and creator.',
+  description: 'Developer, PhD Candidate.',
   openGraph: {
-    title: 'Lee Robinson',
-    description: 'Developer, writer, and creator.',
-    url: 'https://leerob.io',
-    siteName: 'Lee Robinson',
+    title: 'Xingchi Li',
+    description: 'Developer, PhD Candidate.',
+    url: 'https://i.xingchi.li',
+    siteName: 'Xingchi Li',
     locale: 'en_US',
     type: 'website',
   },
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: 'Lee Robinson',
+    title: 'Xingchi Li',
     card: 'summary_large_image',
   },
   verification: {
